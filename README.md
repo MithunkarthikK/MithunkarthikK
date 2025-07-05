@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MithunkarthikK
-- 👀 I’m interested in Web Developement and Software Developement
-- 🌱 I’m currently learning React.js
+- 👀 An Early-Career Developer
+- 🌱 I’m currently learned MERN Stack
 - 💞️ I’m looking for Software Developer Role
-- 📫 Reach me on via LinkedIn
+- 📫 Reach me on via LinkedIn Mail
 
 <!---
 MithunkarthikK/MithunkarthikK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
