@@ -75,8 +75,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MithunkarthikK&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunkarthikK&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -106,7 +106,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MithunkarthikK&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
