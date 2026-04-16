@@ -1,13 +1,13 @@
-<!-- ================= HERO ================= -->
+<!-- ================= FAANG LEVEL HERO ================= -->
 
-<h1 align="center">🚀 Mithun Karthik</h1>
+<h1 align="center">⚡ Mithun Karthik ⚡</h1>
 
 <h3 align="center">
-  Full Stack Developer • Backend Engineer • API Specialist
+  Backend Engineer • Full Stack Developer • System Design Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Backend+Engineering+Expert;React+%2B+Django+Specialist;System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Designing+Scalable+Systems;Backend+Engineering+%7C+APIs+%7C+Architecture;React+%2B+Django+Developer;Future+Product+Engineer" />
 </p>
 
 <p align="center">
@@ -16,14 +16,16 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineer Summary
 
-- 🔥 Associate Software Developer with real-world experience  
-- ⚙️ Specialized in Backend Development & API Design  
-- 🚀 Building scalable, production-ready applications  
-- 🌱 Currently learning System Design & High Scalability  
-- 🎯 Goal: Crack Top Product-Based Companies  
-- ⚡ Fun Fact: I turn ☕ into scalable systems  
+```diff
++ Associate Software Developer
++ Backend-first Engineer (APIs, Architecture, Performance)
++ Experience building production-grade applications
+```
+
+I build **scalable backend systems** and **high-performance web apps** with clean architecture.  
+Focused on **system design, API efficiency, and real-world problem solving**.
 
 ---
 
@@ -40,41 +42,51 @@
 
 ---
 
-## 🧩 Core Expertise
+## 🧩 Engineering Strengths
 
-- 🔐 Authentication Systems (JWT, Secure APIs)
-- ⚡ REST API Design & Optimization
+- 🔐 Secure Authentication (JWT, Role-based access)
+- ⚡ High-performance REST APIs
 - 🧠 Scalable Backend Architecture
-- 🔍 Search & Data Handling
-- 🌐 Full Stack Integration
-- 🚀 Performance Optimization
+- 🔍 Optimized Query Handling
+- 🔄 Full Stack Integration (React ↔ Backend)
+- 🚀 Clean Code & Maintainable Systems
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Production-Level Projects
 
-### 🧩 TeamMind
-> Confluence-like knowledge base system  
-✔ Auth, Docs, Mentions, Sharing  
-✔ React + Django + MongoDB  
-
----
-
-### 🗳️ SilentVote
-> Anonymous voting platform  
-✔ Real-time poll system  
-✔ Secure & scalable  
+### 🧩 TeamMind — Knowledge Base Platform
+✔ Confluence-style document system  
+✔ Mentions, sharing, permissions  
+✔ Rich text editor + auto-save  
+✔ Backend: Django REST + MongoDB  
 
 ---
 
-### 🌍 Tourist Guide App
-> Explore Tamil Nadu  
-✔ District-wise places + hidden gems  
-✔ API-driven dynamic UI  
+### 🗳️ SilentVote — Anonymous Voting System
+✔ Real-time polling system  
+✔ Secure vote handling  
+✔ Scalable architecture design  
 
 ---
 
-## 📊 GitHub Stats
+### 🌍 Tourist Guide — Smart Travel Platform
+✔ API-driven UI  
+✔ District + place-level data  
+✔ Hidden gems recommendation system  
+
+---
+
+## 🏗️ System Design Focus
+
+- Designing scalable APIs
+- Database schema optimization
+- Caching strategies (learning phase)
+- Load handling & performance tuning
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MithunkarthikK&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -107,13 +119,13 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="mailto:k.k.mithunkarthik@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mithunkarthikk">
+  <a href="https://linkedin.com/in/mithunkarthikK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MithunkarthikK">
@@ -123,13 +135,12 @@
 
 ---
 
-## ✨ Developer Mindset
+## 💡 Engineering Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <i>"Build systems that scale, not just code that works."</i>
 </p>
 
 ---
 
-<h3 align="center">⚡ Code • Build • Scale • Repeat ⚡</h3>
-
+<h3 align="center">⚡ Design • Build • Scale • Optimize ⚡</h3>
